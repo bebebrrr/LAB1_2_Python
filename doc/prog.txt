@@ -12,5 +12,5 @@ cout<<"b =";
 cin>>b;
 cout<<"c =";
 cin>>c;
-d=a+b+c;
+d=a+b+c; 
 }
