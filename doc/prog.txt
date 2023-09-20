@@ -5,5 +5,10 @@ int main()
 cout<<"Hello!";
 cout<<"This program is designed to add numbers";
 cout<<"Enter some numbers";
-
+cout<<"a =";
+cin>>a;
+cout<<"b =";
+cin>>b;
+cout<<"c =";
+cin>>c;
 }
