@@ -1,2 +1,6 @@
 #include <iostream>
-ising namespace std;
+using namespace std;
+int main()
+{
+cout<<"Hello!";
+}
